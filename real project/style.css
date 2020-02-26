@@ -1,0 +1,101 @@
+
+body{
+	background-color: #737373;
+	 height: 100%;
+  margin: 0;
+  padding: 0;
+
+}
+
+
+.nav{
+	font-color:white;
+	padding: 80px;
+	margin:10px;
+	background-color:#404040;
+
+
+}
+.index{
+	color:  #e6e6e6
+
+	padding: 10px ;
+	margin:10px ;
+	float: left;
+	width:300; 
+
+}
+
+.one{
+	color:  #e6e6e6
+
+	padding: 10px ;
+	margin:10px ;
+	float: left;
+	width:300; 
+
+}
+.tow{
+		color:  #e6e6e6
+
+	padding: 10px ;
+	margin:10px ;
+	float: left;
+	width:300; 
+}
+.three{
+	color:  #e6e6e6
+
+	padding: 10px ;
+	margin:10px ;
+	float: left;
+	width:300; 
+}
+.clear{
+	clear: both;
+}
+div img{
+	width: 300px;
+	padding: 10px;
+	margin: 10px;
+    display: block;
+	float: center right;
+}
+
+
+.left{
+	background-color: black;
+
+	width:300px ;
+	color: white;
+	padding:10px;
+	float:left;
+	margin:10px;
+}
+
+.clear{
+	clear: both;
+}
+.tabel tr{
+text-align: right;
+	min-width: 70px;
+	max-height: 50px;
+
+}
+.td{
+	min-width: 70px;
+	max-height: 50px;
+	margin: 10px;
+	padding: 10px;
+}
+.img{ 
+	padding: 10px;
+	margin: 10px;
+	float: center;
+	 background-image: url("img.jpg");
+	height: 50%; 
+	  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
